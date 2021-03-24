@@ -353,6 +353,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Christopher Branston
 1. Christopher Davis (GNOME)
 1. Christopher Engelhard (Fedora Project contributor)
+1. Christopher Lee (former KDE developer)
 1. Christopher `kode54` Snowhill
 1. Christopher Patti
 1. Christopher Schmidt
@@ -416,7 +417,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Danny Bouimad
 1. Danny "Rushyo" Moules (Security researcher, EFF Member, Former Mozilla contributor)
 1. Dan 'pixelflow' Humphreys
-1. Dan Orzechowski
 1. Dan Stuart
 1. Dan Winship
 1. Dario Ninicato
@@ -539,6 +539,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Esther Weidauer
 1. Ethan Djeric
 1. Ethan Atchley (Ataraxia GNU/Linux and Dang Small Linux developer)
+
 1. Étienne Mollier (Debian Maintainer)
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
@@ -1506,7 +1507,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. tre murillo
 1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
 1. Trevor Manz
-1. Trevor McNaughton
 1. Trevor Thalacker
 1. Trinity Pointard
 1. Tristan Rain Hamer
